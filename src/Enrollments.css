@@ -1,0 +1,13 @@
+.label {
+    padding: 0 5px 2px;
+    border-radius: 4px;
+    color: white;
+}
+
+.label.green {
+    background-color: green;
+}
+
+.label.red {
+    background-color: red;
+}
